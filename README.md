@@ -1,4 +1,4 @@
-Apple Leaf Disease CNN with Lesion-Aware Explainability Validation
+**Apple Leaf Disease CNN with Lesion-Aware Explainability Validation**
 
 Overview
 
@@ -22,7 +22,7 @@ Create a virtual environment:
 
 python -m venv venv
 .\venv\Scripts\activate  # On Windows
-# or source venv/bin/activate  # On Unix/Linux/MacOS
+
 
 
 
